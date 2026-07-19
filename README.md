@@ -11,6 +11,16 @@
 - 无足够证据时强制输出`insufficient_evidence`；
 - 可选OpenAI-compatible结构化输出后端，默认Demo完全离线。
 
+## 工作流程
+
+<p align="center">
+  <img
+    src="docs/assets/autoguard-grounded-diagnosis-flow.jpg"
+    alt="AutoGuard Grounded Diagnosis workflow"
+    width="900"
+  />
+</p>
+
 ## 快速运行
 
 ```bash
